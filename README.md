@@ -2,8 +2,8 @@
 
 <p>Projet réaliser durant la Global Game Jam du 27/01/2019 sur le thème : "What home means to you"</p>
 
-Le projet à été réalisé à 3.
+<p>Le projet à été réalisé à 3.</p>
 
-Scripts: Guillaume RAULT
-Sprites : Aurel GHIRENGHELLI
-Animations : Benjamin Brihoum
+<p>Scripts: Guillaume RAULT</p>
+<p>Sprites : Aurel GHIRENGHELLI</p>
+<p>Animations : Benjamin Brihoum</p>
